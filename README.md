@@ -1,6 +1,5 @@
 # 1) Clone the repo
 git clone https://github.com/ceceece/office_availability.git
-cd office_availability
 
 # 2) Make setup script executable
 chmod +x setup.sh
@@ -9,7 +8,7 @@ chmod +x setup.sh
 ./setup.sh
 
 # 4) Load the alias into your shell
-source ~/.bashrc   # or `source ~/.zshrc` if you adapted for zsh
+source ~/.bashrc
 
 # 5) Start the app (runs in background)
 office-app
