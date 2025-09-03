@@ -1,0 +1,89 @@
+{
+  "people": [
+    {
+      "id": 11,
+      "name": "Rebecca",
+      "status": "vacation",
+      "lastUpdated": "2025-08-03T19:09:45.750722+00:00",
+      "gif": "https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.gif"
+    },
+    {
+      "id": 12,
+      "name": "Collin",
+      "status": "vacation",
+      "lastUpdated": "2025-08-03T19:09:39.894547+00:00",
+      "gif": "https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.gif"
+    },
+    {
+      "id": 13,
+      "name": "Aaron",
+      "status": "available",
+      "lastUpdated": "2025-08-03T19:10:00.445441+00:00",
+      "gif": "https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.gif"
+    },
+    {
+      "id": 10,
+      "name": "Andrew",
+      "status": "home",
+      "lastUpdated": "2025-07-31T17:30:30.416359+00:00",
+      "gif": "https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.gif"
+    },
+    {
+      "id": 1,
+      "name": "Deniz",
+      "status": "class",
+      "lastUpdated": "2025-08-03T19:10:26.943865+00:00",
+      "gif": "https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.gif"
+    },
+    {
+      "id": 2,
+      "name": "Ecem",
+      "status": "dontdisturb",
+      "lastUpdated": "2025-08-03T19:10:12.139461+00:00",
+      "gif": "https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.gif"
+    },
+    {
+      "id": 3,
+      "name": "Josh",
+      "status": "away",
+      "lastUpdated": "2025-07-31T21:04:37.405887+00:00",
+      "gif": "https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif"
+    },
+    {
+      "id": 4,
+      "name": "Lauren",
+      "status": "sleep",
+      "lastUpdated": "2025-08-03T19:10:14.809435+00:00",
+      "gif": "https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif"
+    },
+    {
+      "id": 9,
+      "name": "Montana",
+      "status": "meeting",
+      "lastUpdated": "2025-07-29T18:00:01.554408+00:00",
+      "gif": "https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif"
+    },
+    {
+      "id": 5,
+      "name": "Noah",
+      "status": "meal",
+      "lastUpdated": "2025-07-29T17:59:54.900036+00:00",
+      "gif": "https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif"
+    },
+    {
+      "id": 6,
+      "name": "River",
+      "status": "away",
+      "lastUpdated": "2025-07-29T17:59:56.494630+00:00",
+      "gif": "https://media.giphy.com/media/3o6ZtaO9BZHcOjmErm/giphy.gif"
+    },
+    {
+      "id": 7,
+      "name": "Sarah",
+      "status": "vacation",
+      "lastUpdated": "2025-08-03T19:20:24.136664+00:00",
+      "gif": "https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.gif"
+    }
+  ],
+  "lastSync": "2025-08-03T19:20:24.136680+00:00"
+}
